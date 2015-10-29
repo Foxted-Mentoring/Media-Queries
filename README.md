@@ -18,4 +18,4 @@ You can open the example in your browser, but do not take a look at the code! :)
 ## Tip
 
 To test your solution, open the Chrome Dev Tools, click on the small smartphone icon at the top left corner of the dev tools window 
-and play around with the width of the viewport (see screenshot ![Testing](src/testing.png))
+and play around with the width of the viewport (cf. screenshot) ![Testing](src/testing.png)
